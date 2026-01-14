@@ -1,5 +1,8 @@
-
 <div align="center">
+  <img src="https://github.com/Gustaafvito/Gustaafvito/blob/main/Banner%20.jpg?raw=true" alt="Banner Gustavo" width="100%" />
+  
+  <br>
+  
   <h1 align="center">Hola 👋, Soy Gustavo Luis Sánchez</h1>
   <h3 align="center">💀 JUNIOR PENETRATION TESTER | eJPT CERTIFIED 💀</h3>
   <p align="center">SEGURIDAD OFENSIVA | ETHICAL HACKING | PENTESTING WEB & INFRAESTRUCTURA</p>
@@ -28,7 +31,7 @@
 
 * 🔗 **LinkedIn:** [Gustavo Luis Sánchez](https://www.linkedin.com/in/gustavoluiss%C3%A1nchez/)
 * 👾 **TryHackMe:** [Gustaafvito](https://tryhackme.com/p/Gustaafvito)
-* 📦 **Mis Proyectos/Write-ups:** [Enlace a tu blog o carpeta de writeups si tienes]
+* 📦 **Mis Proyectos/Write-ups:** [Enlace a tu blog o carpeta de writeups]
 
 ---
 
