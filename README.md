@@ -1,12 +1,24 @@
 <div align="center">
   <img src="https://github.com/Gustaafvito/Gustaafvito/blob/main/Banner%20.jpg?raw=true" alt="Banner Gustavo" width="100%" />
-  
-  <br>
-  
-  <h1 align="center">Hola 👋, Soy Gustavo Luis Sánchez</h1>
-  <h3 align="center">💀 JUNIOR PENETRATION TESTER | eJPT CERTIFIED 💀</h3>
-  <p align="center">SEGURIDAD OFENSIVA | ETHICAL HACKING | PENTESTING WEB & INFRAESTRUCTURA</p>
+
+  <br><br>
+  <p align="center">
+    <i>🛡️ "Rompiendo barreras para asegurar el futuro digital" 🛡️</i>
+  </p>
+
+  <a href="https://www.linkedin.com/in/gustavoluiss%C3%A1nchez/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://tryhackme.com/p/Gustaafvito" target="_blank">
+    <img src="https://img.shields.io/badge/TryHackMe-Gustaafvito-red?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe">
+  </a>
+  <a href="https://app.hackthebox.com/profile/2362036" target="_blank">
+    <img src="https://img.shields.io/badge/HackTheBox-Profile-green?style=for-the-badge&logo=hackthebox&logoColor=white" alt="HackTheBox">
+  </a>
+
 </div>
+
+<br>
 
 ---
 
