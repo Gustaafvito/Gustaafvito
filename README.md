@@ -43,8 +43,7 @@
 
 * 🔗 **LinkedIn:** [Gustavo Luis Sánchez](https://www.linkedin.com/in/gustavoluiss%C3%A1nchez/)
 * 👾 **TryHackMe:** [Gustaafvito](https://tryhackme.com/p/Gustaafvito)
-* 📦 **Mis Proyectos/Write-ups:** [Enlace a tu blog o carpeta de writeups]
-
+* 📦 **Mis Proyectos/Write-ups:** 
 ---
 
 ### 🛠️ Lenguajes, Herramientas y Aptitudes
@@ -74,10 +73,10 @@ Como parte de mi contribución a la comunidad, he desarrollado retos técnicos p
 
 | Reto / Máquina | Categoría | Descripción | Link |
 | :--- | :---: | :--- | :---: |
-| **🤖 El Droide Espía** | Mobile Hacking | Reto enfocado en el análisis de vulnerabilidades en aplicaciones Android. | [Jugar](https://thepwnlab.es/retos/el-droide-espia) |
-| **🏯 Jinteki** | CTF Machine | Máquina virtual estilo Boot2Root para practicar intrusión y escalada de privilegios. | [Jugar](https://thepwnlab.es/maquinas/jinteki) |
-| **📉 Fuga de Datos en Ciberion** | DFIR / Forensics | Escenario de investigación forense sobre exfiltración de información. | [Jugar](https://thepwnlab.es/retos/fuga-de-datos-en-ciberion) |
-| **📜 Bitácora del Incidente** | Incident Response | Análisis de logs y trazas para reconstruir un incidente de seguridad. | [Jugar](https://thepwnlab.es/retos/bitacora-del-incidente) |
+| **🤖 El Droide Espía** | Mobile Hacking | Reto enfocado en el análisis de vulnerabilidades en aplicaciones Android. | [Accede](https://thepwnlab.es/retos/el-droide-espia) |
+| **🏯 Jinteki** | CTF Machine | Máquina virtual estilo Boot2Root para practicar intrusión y escalada de privilegios. | [Accede](https://thepwnlab.es/maquinas/jinteki) |
+| **📉 Fuga de Datos en Ciberion** | DFIR / Forensics | Escenario de investigación forense sobre exfiltración de información. | [Accede](https://thepwnlab.es/retos/fuga-de-datos-en-ciberion) |
+| **📜 Bitácora del Incidente** | Incident Response | Análisis de logs y trazas para reconstruir un incidente de seguridad. | [Accede](https://thepwnlab.es/retos/bitacora-del-incidente) |
 ### 📊 Estadísticas
 
 <div align="center">
