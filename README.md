@@ -82,14 +82,7 @@ Como parte de mi contribución a la comunidad, he desarrollado retos técnicos p
 ### 📊 Estadísticas
 
 <div align="center">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Gustaafvito&show_icons=true&theme=radical" height="150" alt="stats graph" />
-  </p>
-  <p>
-    <a href="https://tryhackme.com/p/Gustaafvito">
-      <img src="https://tryhackme-badges.s3.amazonaws.com/Gustaafvito.png" alt="TryHackMe Badge" />
-    </a>
-  </p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Gustaafvito&show_icons=true&theme=radical" height="150" alt="stats graph" />
 </div>
 
 ---
