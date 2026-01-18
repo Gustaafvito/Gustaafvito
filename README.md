@@ -41,9 +41,10 @@
 
 ### 📌 Enlaces de Interés
 
-* 🔗 **LinkedIn:** [Gustavo Luis Sánchez](https://www.linkedin.com/in/gustavoluiss%C3%A1nchez/)
+* 🔗 **LinkedIn:** [Gustavo Luis Sánchez](https://www.linkedin.com/in/gustavoluissánchez/)
+* 🧪 **Learning Path & Labs:** [Mis Pruebas de Concepto (GitHub)](https://github.com/Gustaafvito/Learning-Cybersecurity-Labs) 
 * 👾 **TryHackMe:** [Gustaafvito](https://tryhackme.com/p/Gustaafvito)
-* 📦 **Mis Proyectos/Write-ups:** 
+* 📦 **Mis Proyectos/Write-ups:** [Mis Write-ups](https://github.com/Gustaafvito?tab=repositories)
 ---
 
 ### 🛠️ Lenguajes, Herramientas y Aptitudes
@@ -77,13 +78,18 @@ Como parte de mi contribución a la comunidad, he desarrollado retos técnicos p
 | **🏯 Jinteki** | CTF Machine | Máquina virtual estilo Boot2Root para practicar intrusión y escalada de privilegios. | [Accede](https://thepwnlab.es/maquinas/jinteki) |
 | **📉 Fuga de Datos en Ciberion** | DFIR / Forensics | Escenario de investigación forense sobre exfiltración de información. | [Accede](https://thepwnlab.es/retos/fuga-de-datos-en-ciberion) |
 | **📜 Bitácora del Incidente** | Incident Response | Análisis de logs y trazas para reconstruir un incidente de seguridad. | [Accede](https://thepwnlab.es/retos/bitacora-del-incidente) |
+---
 ### 📊 Estadísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gustaafvito&show_icons=true&theme=radical" height="150" alt="stats graph" />
-  <a href="https://tryhackme.com/p/Gustaafvito">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/Gustaafvito.png" alt="TryHackMe" />
-  </a>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=Gustaafvito&show_icons=true&theme=radical" height="150" alt="stats graph" />
+  </p>
+  <p>
+    <a href="https://tryhackme.com/p/Gustaafvito">
+      <img src="https://tryhackme-badges.s3.amazonaws.com/Gustaafvito.png" alt="TryHackMe Badge" />
+    </a>
+  </p>
 </div>
 
 ---
