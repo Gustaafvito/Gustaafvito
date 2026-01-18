@@ -44,7 +44,7 @@
 * 🔗 **LinkedIn:** [Gustavo Luis Sánchez](https://www.linkedin.com/in/gustavoluissánchez/)
 * 🧪 **Learning Path & Labs:** [Mis Pruebas de Concepto (GitHub)](https://github.com/Gustaafvito/Learning-Cybersecurity-Labs) 
 * 👾 **TryHackMe:** [Gustaafvito](https://tryhackme.com/p/Gustaafvito)
-* 📦 **Mis Proyectos/Write-ups:** [Mis Write-ups](https://github.com/Gustaafvito?tab=repositories)
+* 📦 **Mis Proyectos/Write-ups:** [Mis Write-ups](https://github.com/Gustaafvito/mis-writeup)
 ---
 
 ### 🛠️ Lenguajes, Herramientas y Aptitudes
