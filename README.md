@@ -41,10 +41,11 @@
 
 ### 📌 Enlaces de Interés
 
-* 🔗 **LinkedIn:** [Gustavo Luis Sánchez](https://www.linkedin.com/in/gustavoluissánchez/)
-* 🧪 **Learning Path & Labs:** [Mis Pruebas de Concepto (GitHub)](https://github.com/Gustaafvito/Learning-Cybersecurity-Labs) 
+* 🔗 **LinkedIn:** [Gustavo Luis Sánchez](https://www.linkedin.com/in/gustavoluiss%C3%A1nchez/)
+* 🧪 **Labs & Learning:** [Mis Pruebas de Concepto](https://github.com/Gustaafvito/Learning-Cybersecurity-Labs)
+* 🐉 **Herramientas:** [Kali Optimizer v2.0](https://github.com/Gustaafvito/Kali-Optimizer)
+* 🏴‍☠️ **Write-ups:** [CTF & Pentesting Notes](https://github.com/Gustaafvito/CTF-Writeups)
 * 👾 **TryHackMe:** [Gustaafvito](https://tryhackme.com/p/Gustaafvito)
-* 📦 **Mis Proyectos/Write-ups:** [Mis Write-ups](https://github.com/Gustaafvito/mis-writeup)
 ---
 
 ### 🛠️ Lenguajes, Herramientas y Aptitudes
