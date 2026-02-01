@@ -91,8 +91,13 @@ Como parte de mi contribución a la comunidad, he desarrollado retos técnicos p
 
 ### 📊 Estadísticas
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Gustaafvito&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustaafvito&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-readme-streak-stats.demolab.com/?user=Gustaafvito&theme=radical&hide_border=true" alt="GitHub Streak" />
+  
+  <br>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustaafvito&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+</div>
 
 ---
 
