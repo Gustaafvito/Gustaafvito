@@ -91,14 +91,8 @@ Como parte de mi contribución a la comunidad, he desarrollado retos técnicos p
 
 ### 📊 Estadísticas
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Gustaafvito&show_icons=true&theme=radical&count_private=true" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustaafvito&layout=compact&theme=radical&hide=html,css" />
-  </a>
-</div>
+![Stats](https://github-readme-stats.vercel.app/api?username=Gustaafvito&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustaafvito&layout=compact&theme=radical)
 
 ---
 
