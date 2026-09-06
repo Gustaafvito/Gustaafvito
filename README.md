@@ -6,6 +6,9 @@
     <i>🛡️ "Rompiendo barreras para asegurar el futuro digital" 🛡️</i>
   </p>
 
+  <a href="https://gustaafvito.com/" target="_blank">
+    <img src="https://img.shields.io/badge/gustaafvito.com-Web-FF6B35?style=for-the-badge&logo=firefox&logoColor=white" alt="Web">
+  </a>
   <a href="https://www.linkedin.com/in/gustavoluiss%C3%A1nchez/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
@@ -41,6 +44,7 @@
 
 ### 📌 Enlaces de Interés
 
+* 🌐 **Web:** [gustaafvito.com](https://gustaafvito.com/) — proyectos, servicios y contacto
 * 🔗 **LinkedIn:** [Gustavo Luis Sánchez](https://www.linkedin.com/in/gustavoluiss%C3%A1nchez/)
 * 🧪 **Labs & Learning:** [Mis Pruebas de Concepto](https://github.com/Gustaafvito/Learning-Cybersecurity-Labs)
 * 🐉 **Herramientas:** [Kali Optimizer v2.0](https://github.com/Gustaafvito/Kali-Optimizer)
@@ -89,6 +93,29 @@ Como parte de mi contribución a la comunidad, he desarrollado retos técnicos p
 
 ---
 
+
+### 🤖 Creación con IA y Herramientas Propias
+
+> *"El mismo criterio que aplico auditando un sistema lo aplico montando un pipeline de
+> generación: entender qué hace cada pieza, medirla y no fiarme de lo que no puedo verificar."*
+
+Además del trabajo ofensivo, construyo **herramientas de escritorio** y **pipelines locales de
+IA generativa**. Todo el detalle está en [gustaafvito.com](https://gustaafvito.com/).
+
+| Área | En qué consiste | Stack |
+| :--- | :--- | :--- |
+| **🎨 Creación con IA** | Imagen y vídeo, entrenamiento de LoRA de personaje y pipelines locales | ComfyUI, FLUX, Wan, Z-Image |
+| **🛠️ Herramientas a medida** | Aplicaciones de escritorio y web que resuelven un cuello de botella concreto | Python, customtkinter, PyInstaller |
+| **🔌 Integración con IA** | Conexión con múltiples proveedores LLM, empaquetado e instalador | OpenAI, Claude, Gemini, Ollama, LM Studio |
+| **🛡️ Seguridad aplicada** | El mismo enfoque de auditoría, aplicado a lo que construyo | Tests, DPAPI/keyring, auditoría de dependencias |
+
+<!-- ── AL LANZAR G-PROMPT STUDIO: descomentar esta tabla ──────────────────
+| Proyecto | Qué resuelve | Link |
+| :--- | :--- | :---: |
+| **🧠 G-Prompt Studio** | Suite de ingeniería de prompts: 406 modelos de imagen, vídeo y audio, cada uno con sus reglas, límites y formato propio. Multi-cerebro (14 LLMs) y auto-detección de modelos locales de ComfyUI. | [Repo](https://github.com/Gustaafvito/gprompt-studio) |
+────────────────────────────────────────────────────────────────────── -->
+
+---
 
 ### 🎁 Contacto y Apoyo
 
