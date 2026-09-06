@@ -35,6 +35,7 @@
 
 ### 💻 Estado Actual y Formación
 
+🖥️ **Grado Medio (cursando):** Técnico en Sistemas Microinformáticos y Redes (UNIVERSAE) - Bloque 1 superado, avanzando al Bloque 2 de 4.
 🎓 **Bootcamp:** Especialización en Ciberseguridad y Hacking Ético (Tokio School) - Enfocado en Red Team y Auditoría Ofensiva.
 📜 **Certificación:** eJPT (Junior Penetration Tester) - INE.
 🛡️ **Compliance:** Auditor Interno ISO 27001:2022 Fundamentals (HackerMentor).
