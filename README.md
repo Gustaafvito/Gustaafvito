@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Gustaafvito/Gustaafvito/blob/main/Banner%20.jpg?raw=true" alt="Banner Gustavo" width="100%" />
+  <img src="https://raw.githubusercontent.com/Gustaafvito/Gustaafvito/main/banner.svg" alt="Gustavo Luis Sánchez — Junior Penetration Tester y Creador con IA" width="100%" />
 
   <br><br>
   <p align="center">

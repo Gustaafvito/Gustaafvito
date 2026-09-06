@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 320" width="1280" height="320" role="img" aria-label="Gustavo Luis Sanchez — Junior Penetration Tester y Creador con IA">
+  <defs>
+    <linearGradient id="fondo" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%"   stop-color="#0b3d3b"/>
+      <stop offset="45%"  stop-color="#0d2233"/>
+      <stop offset="100%" stop-color="#070f18"/>
+    </linearGradient>
+
+    <radialGradient id="brillo" cx="18%" cy="12%" r="65%">
+      <stop offset="0%"   stop-color="#3ddad0" stop-opacity="0.30"/>
+      <stop offset="100%" stop-color="#3ddad0" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="brilloIA" cx="88%" cy="88%" r="55%">
+      <stop offset="0%"   stop-color="#ff6b35" stop-opacity="0.20"/>
+      <stop offset="100%" stop-color="#ff6b35" stop-opacity="0"/>
+    </radialGradient>
+
+    <pattern id="rejilla" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0v34" fill="none" stroke="#7fe3d8" stroke-opacity="0.07" stroke-width="1"/>
+    </pattern>
+
+    <linearGradient id="filo" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"   stop-color="#3ddad0"/>
+      <stop offset="55%"  stop-color="#3ddad0"/>
+      <stop offset="100%" stop-color="#ff6b35"/>
+    </linearGradient>
+  </defs>
+
+  <!-- fondo -->
+  <rect width="1280" height="320" fill="url(#fondo)"/>
+  <rect width="1280" height="320" fill="url(#rejilla)"/>
+  <rect width="1280" height="320" fill="url(#brillo)"/>
+  <rect width="1280" height="320" fill="url(#brilloIA)"/>
+
+  <!-- filo superior: teal (seguridad) -> naranja (IA) -->
+  <rect x="0" y="0" width="1280" height="4" fill="url(#filo)"/>
+
+  <!-- marca de terminal, arriba a la izquierda -->
+  <g font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="19">
+    <text x="72" y="72" fill="#3ddad0" opacity="0.85">~$</text>
+    <text x="106" y="72" fill="#8fa6b8" opacity="0.75">whoami</text>
+  </g>
+
+  <!-- nombre -->
+  <text x="72" y="158"
+        font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif"
+        font-size="70" font-weight="700" fill="#ffffff" letter-spacing="2.5">GUSTAVO LUIS SÁNCHEZ</text>
+
+  <!-- separador -->
+  <rect x="74" y="184" width="132" height="3" rx="1.5" fill="url(#filo)"/>
+
+  <!-- las dos facetas -->
+  <g font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif"
+     font-size="27" font-weight="600" letter-spacing="4.5">
+    <text x="72" y="228" fill="#3ddad0">JUNIOR PENETRATION TESTER</text>
+    <text x="592" y="228" fill="#5d7186">·</text>
+    <text x="622" y="228" fill="#ff8c5a">CREADOR CON IA</text>
+  </g>
+
+  <!-- credenciales -->
+  <g font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace"
+     font-size="17" fill="#8fa6b8">
+    <text x="74" y="268">eJPT Certified</text>
+    <text x="212" y="268" fill="#3f5364">|</text>
+    <text x="232" y="268">ISO 27001 Auditor</text>
+    <text x="404" y="268" fill="#3f5364">|</text>
+    <text x="424" y="268">Badalona · Barcelona</text>
+  </g>
+
+  <!-- web -->
+  <text x="1208" y="268" text-anchor="end"
+        font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace"
+        font-size="19" fill="#ff8c5a" opacity="0.95">gustaafvito.com</text>
+
+  <!-- hexagono discreto, guino a HTB -->
+  <g transform="translate(1128 118)" opacity="0.5">
+    <path d="M0 -46 L40 -23 L40 23 L0 46 L-40 23 L-40 -23 Z"
+          fill="none" stroke="#3ddad0" stroke-width="2.5"/>
+    <path d="M0 -25 L22 -12.5 L22 12.5 L0 25 L-22 12.5 L-22 -12.5 Z"
+          fill="none" stroke="#ff6b35" stroke-width="2" opacity="0.8"/>
+  </g>
+</svg>
