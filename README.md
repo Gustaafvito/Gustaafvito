@@ -75,9 +75,9 @@
 
 **🤖 IA Generativa & Desarrollo**
 <br>
-<img src="https://img.shields.io/badge/ComfyUI-1A1A2E?style=for-the-badge&logoColor=white" alt="ComfyUI" />
-<img src="https://img.shields.io/badge/FLUX-000000?style=for-the-badge&logoColor=white" alt="FLUX" />
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+<img src="https://img.shields.io/badge/ComfyUI-6A4C93?style=for-the-badge&logoColor=white" alt="ComfyUI" />
+<img src="https://img.shields.io/badge/FLUX-00A6A6?style=for-the-badge&logoColor=white" alt="FLUX" />
+<img src="https://img.shields.io/badge/Ollama-2D3748?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
 <img src="https://img.shields.io/badge/LM_Studio-4B32C3?style=for-the-badge&logoColor=white" alt="LM Studio" />
 <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
 <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
