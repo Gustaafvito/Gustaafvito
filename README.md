@@ -27,19 +27,19 @@
 
 ### ⭐ Acerca de mí
 
-🔐 **Junior Pentester** certificado **eJPT** con sólida formación en metodologías de intrusión y auditoría técnica.
-🕷️ Especializado en **Hacking Web** (OWASP Top 10, Burp Suite) e **Infraestructura** (Linux/Windows, Metasploit).
-📱 Conocimientos en **Arquitectura Android** y **Mobile Hacking** gracias a mi formación en programación de dispositivos móviles.
-🕵️‍♂️ Capacidad para el **Análisis de Malware** y gestión de redes TCP/IP.
-🧠 Interés en la aplicación de **IA, Big Data y SIEM** (Elastic Stack) en entornos corporativos.
+🔐 **Junior Pentester** certificado **eJPT** con sólida formación en metodologías de intrusión y auditoría técnica.  
+🕷️ Especializado en **Hacking Web** (OWASP Top 10, Burp Suite) e **Infraestructura** (Linux/Windows, Metasploit).  
+📱 Conocimientos en **Arquitectura Android** y **Mobile Hacking** gracias a mi formación en programación de dispositivos móviles.  
+🕵️‍♂️ Capacidad para el **Análisis de Malware** y gestión de redes TCP/IP.  
+🧠 Interés en la aplicación de **IA, Big Data y SIEM** (Elastic Stack) en entornos corporativos.  
 
 ### 💻 Estado Actual y Formación
 
-🖥️ **Grado Medio (cursando):** Técnico en Sistemas Microinformáticos y Redes (UNIVERSAE) - Bloque 1 superado, avanzando al Bloque 2 de 4.
-🎓 **Bootcamp:** Especialización en Ciberseguridad y Hacking Ético (Tokio School) - Enfocado en Red Team y Auditoría Ofensiva.
-📜 **Certificación:** eJPT (Junior Penetration Tester) - INE.
-🛡️ **Compliance:** Auditor Interno ISO 27001:2022 Fundamentals (HackerMentor).
-☁️ **Formación Adicional:** Transformación Digital, Cloud Computing e IA (Universidad Nebrija).
+🖥️ **Grado Medio (cursando):** Técnico en Sistemas Microinformáticos y Redes (UNIVERSAE) - Bloque 1 superado, avanzando al Bloque 2 de 4.  
+🎓 **Bootcamp:** Especialización en Ciberseguridad y Hacking Ético (Tokio School) - Enfocado en Red Team y Auditoría Ofensiva.  
+📜 **Certificación:** eJPT (Junior Penetration Tester) - INE.  
+🛡️ **Compliance:** Auditor Interno ISO 27001:2022 Fundamentals (HackerMentor).  
+☁️ **Formación Adicional:** Transformación Digital, Cloud Computing e IA (Universidad Nebrija).  
 
 ---
 
