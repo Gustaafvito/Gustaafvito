@@ -15,7 +15,7 @@
   <a href="https://tryhackme.com/p/Gustaafvito" target="_blank">
     <img src="https://img.shields.io/badge/TryHackMe-Gustaafvito-red?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe">
   </a>
-  <a href="https://app.hackthebox.com/profile/2362036" target="_blank">
+  <a href="https://profile.hackthebox.com/profile/019c43ae-8cab-71df-ab53-b053d12a97a4" target="_blank">
     <img src="https://img.shields.io/badge/HackTheBox-Profile-green?style=for-the-badge&logo=hackthebox&logoColor=white" alt="HackTheBox">
   </a>
 
@@ -50,6 +50,7 @@
 * 🐉 **Herramientas:** [Kali Optimizer v2.0](https://github.com/Gustaafvito/Kali-Optimizer)
 * 🏴‍☠️ **Write-ups:** [CTF & Pentesting Notes](https://github.com/Gustaafvito/CTF-Writeups)
 * 👾 **TryHackMe:** [Gustaafvito](https://tryhackme.com/p/Gustaafvito)
+* 📦 **HackTheBox:** [gustaafvito](https://profile.hackthebox.com/profile/019c43ae-8cab-71df-ab53-b053d12a97a4)
 
 ---
 
