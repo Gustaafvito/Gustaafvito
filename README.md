@@ -73,6 +73,16 @@
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
 <img src="https://img.shields.io/badge/TCP_IP-Protocol-gray?style=for-the-badge" alt="TCP/IP" />
 
+**🤖 IA Generativa & Desarrollo**
+<br>
+<img src="https://img.shields.io/badge/ComfyUI-1A1A2E?style=for-the-badge&logoColor=white" alt="ComfyUI" />
+<img src="https://img.shields.io/badge/FLUX-000000?style=for-the-badge&logoColor=white" alt="FLUX" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+<img src="https://img.shields.io/badge/LM_Studio-4B32C3?style=for-the-badge&logoColor=white" alt="LM Studio" />
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+
 **🐍 Scripting & Certificaciones**
 <br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
