@@ -121,11 +121,9 @@ IA generativa**. Todo el detalle está en [gustaafvito.com](https://gustaafvito.
 | **🔌 Integración con IA** | Conexión con múltiples proveedores LLM, empaquetado e instalador | OpenAI, Claude, Gemini, Ollama, LM Studio |
 | **🛡️ Seguridad aplicada** | El mismo enfoque de auditoría, aplicado a lo que construyo | Tests, DPAPI/keyring, auditoría de dependencias |
 
-<!-- ── AL LANZAR G-PROMPT STUDIO: descomentar esta tabla ──────────────────
 | Proyecto | Qué resuelve | Link |
 | :--- | :--- | :---: |
-| **🧠 G-Prompt Studio** | Suite de ingeniería de prompts: 406 modelos de imagen, vídeo y audio, cada uno con sus reglas, límites y formato propio. Multi-cerebro (14 LLMs) y auto-detección de modelos locales de ComfyUI. | [Repo](https://github.com/Gustaafvito/gprompt-studio) |
-────────────────────────────────────────────────────────────────────── -->
+| **🧠 G-Prompt Studio** | Suite de escritorio de ingeniería de prompts. **271 modelos** de imagen, vídeo y audio, cada uno con su ficha: prosa o tags, límite de caracteres, si acepta negativo, sampler y CFG. **13 proveedores LLM** verificados uno a uno con keys reales, y detección automática de tus modelos locales de ComfyUI. Apache 2.0, 1.332 tests. | [Descargar](https://github.com/Gustaafvito/gprompt-studio/releases/latest) · [Código](https://github.com/Gustaafvito/gprompt-studio) |
 
 ---
 
