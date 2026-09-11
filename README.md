@@ -123,7 +123,7 @@ IA generativa**. Todo el detalle está en [gustaafvito.com](https://gustaafvito.
 
 | Proyecto | Qué resuelve | Link |
 | :--- | :--- | :---: |
-| **🧠 G-Prompt Studio** | Suite de escritorio de ingeniería de prompts. **271 modelos** de imagen, vídeo y audio, cada uno con su ficha: prosa o tags, límite de caracteres, si acepta negativo, sampler y CFG. **13 proveedores LLM** verificados uno a uno con keys reales, y detección automática de tus modelos locales de ComfyUI. Apache 2.0, 1.332 tests. | [Descargar](https://github.com/Gustaafvito/gprompt-studio/releases/latest) · [Código](https://github.com/Gustaafvito/gprompt-studio) |
+| **🧠 G-Prompt Studio** | Suite de escritorio de ingeniería de prompts. **271 modelos** de imagen, vídeo y audio, cada uno con su ficha: prosa o tags, límite de caracteres, si acepta negativo, sampler y CFG. **13 proveedores LLM** verificados uno a uno con keys reales, y detección automática de tus modelos locales de ComfyUI. Apache 2.0, más de 1.400 tests. | [Descargar](https://github.com/Gustaafvito/gprompt-studio/releases/latest) · [Código](https://github.com/Gustaafvito/gprompt-studio) |
 
 ---
 
