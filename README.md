@@ -124,6 +124,7 @@ IA generativa**. Todo el detalle está en [gustaafvito.com](https://gustaafvito.
 | Proyecto | Qué resuelve | Link |
 | :--- | :--- | :---: |
 | **🧠 G-Prompt Studio** | Suite de escritorio de ingeniería de prompts. **272 modelos** de imagen, vídeo y audio, cada uno con su ficha: prosa o tags, límite de caracteres, si acepta negativo, sampler y CFG. **13 proveedores LLM** (los once de nube, verificados uno a uno con keys reales) y detección automática de tus modelos locales de ComfyUI. Apache 2.0, más de 1.800 tests. | [Descargar](https://github.com/Gustaafvito/gprompt-studio/releases/latest) · [Código](https://github.com/Gustaafvito/gprompt-studio) |
+| **🏚️ La Casa Maldita** | **12 workflows de ComfyUI** convertidos en una casa encantada: imagen, vídeo, voz y montaje, cada uno con su panel temático, su personaje, su música y su voz, sin tocar un nodo. Licencias de todos los modelos auditadas antes de publicar (los no comerciales, sustituidos por alternativas Apache 2.0), instalación limpia probada y publicación automática en el registro oficial de ComfyUI con GitHub Actions. GPL-3.0. | [Código](https://github.com/Gustaafvito/la-casa-maldita) |
 
 ---
 
